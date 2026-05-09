@@ -1,4 +1,4 @@
-/* style.css */
+
 
 :root {
     --primary: #04d6cf;
@@ -19,14 +19,14 @@ body {
     overflow-x: hidden;
 }
 
-/* CONTAINER */
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
-/* HEADER */
+
 .header-page {
     position: fixed;
     width: 100%;
@@ -64,7 +64,7 @@ body {
     color: var(--primary);
 }
 
-/* HERO */
+
 .hero {
     height: 100vh;
     display: flex;
@@ -113,7 +113,7 @@ body {
     font-size: 2rem;
 }
 
-/* GAMES */
+
 .games {
     padding: 100px 0;
 }
@@ -151,7 +151,7 @@ body {
     text-align: center;
 }
 
-/* NEWSLETTER */
+
 .newsletter {
     padding: 100px 0;
     background: #111827;
@@ -191,7 +191,7 @@ body {
     opacity: 0.8;
 }
 
-/* CONTATO */
+
 .contato {
     padding: 100px 0;
 }
@@ -221,7 +221,7 @@ body {
     cursor: pointer;
 }
 
-/* FOOTER */
+
 .footer {
     background: #090c10;
 }
