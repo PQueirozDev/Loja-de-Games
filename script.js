@@ -1,4 +1,4 @@
-// script.js
+
 
 const formNewsletter = document.getElementById('form-newsletter');
 const emailInput = document.getElementById('email-input');
